@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                sh 'I love Jenkins'
+                echo 'I have fixed the code'
             }
         }
     }
