@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo 'I have fixed the code 2nd change'
+                echo 'I have fixed the code 3rd change'
             }
         }
     }
